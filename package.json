@@ -1,0 +1,16 @@
+{
+  "name": "pwwwa-starter",
+  "version": "0.0.1",
+  "description": "starter project for pwwwa",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pwwwa dev",
+    "build": "pwwwa build",
+    "start": "pwwwa start"
+  },
+  "author": "sarmadsangi",
+  "license": "ISC",
+  "dependencies": {
+    "pwwwa": "^1.0.0"
+  }
+}
